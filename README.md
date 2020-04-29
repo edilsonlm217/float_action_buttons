@@ -6,11 +6,13 @@ Clone este repositório para uma pasta de sua preferencia em seu computador.
 Com um dispositivo conectado via USB ou com uma AVD (Android Virtual Device) rodando em seu computador, execute o comando abaixo para instalar o app.
 
 Primeiramente, 
+
 <code>
   yarn
 <code />
 
 em seguida,
+
 <code>
   yarn android
 <code />
