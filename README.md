@@ -16,6 +16,10 @@ Algumas vezes, apesar do build ser realizado com sucesso o bundle metro server f
   
 Pronto, neste momento o app provavelmente já estará na tela de deu dispositivo.
 
+
+As imagens abaixo estão anexadas como GIF, portanto podem levar algum tempo para carregar dependendo da qualidade de sua conexão.
+
+
 <div style="display: flex, flex-direction: row">
   <img height="600" src="https://user-images.githubusercontent.com/55609083/80553090-9e2bed00-8996-11ea-8f12-b139ad68b421.gif"/>
   <img height="600" src="https://user-images.githubusercontent.com/55609083/80553385-b3554b80-8997-11ea-87d0-23c228c01502.gif"/>
