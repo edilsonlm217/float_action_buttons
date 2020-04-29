@@ -7,15 +7,11 @@ Com um dispositivo conectado via USB ou com uma AVD (Android Virtual Device) rod
 
 Primeiramente, 
 
-<code>
-  yarn
-<code />
+### yarn
 
 em seguida, 
 
-<code>
-  yarn android
-<code />
+### yarn android
   
 Algumas vezes, apesar do build ser realizado com sucesso o bundle metro server fecha sem informar o erro. Caso isto aconteça execute o comando abaixo para executá-lo novamente.
 
