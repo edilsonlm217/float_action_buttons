@@ -11,7 +11,7 @@ Primeiramente,
   yarn
 <code />
 
-em seguida,
+em seguida, 
 
 <code>
   yarn android
